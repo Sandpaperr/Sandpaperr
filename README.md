@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 AI and Machine Learning Projects:</h2>
 
-  - [test](link)
+  - [100 Days of code in Python](https://github.com/Sandpaperr/Projects_from_100_days_of_code_App_Brewery)
 
 <h2>📄 Certifications</h2>
 
