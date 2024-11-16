@@ -1,6 +1,6 @@
 <h1>Hi, I'm Leandro! </h1>
 
-<h2>👨‍💻 AI and Machine Learning Projects:</h2>
+<h2>Projects:</h2>
 
   - [100 Days of code in Python](https://github.com/Sandpaperr/Projects_from_100_days_of_code_App_Brewery)
   - [Test Driven Markdown to HTML in Python](https://github.com/Sandpaperr/From-Markdown-to-HTML)
