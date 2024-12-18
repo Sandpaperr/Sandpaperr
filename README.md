@@ -1,9 +1,9 @@
-<h1>Hi, I'm Leandro! </h1>
+<h1>Hi, I'm Leandro! I have recently graduated in Computer Science With Artificial intelligence at the University Of Leeds. I am Currently Learning more about Backend and API development </h1>
 
 <h2>Projects:</h2>
 
-  - [100 Days of code in Python](https://github.com/Sandpaperr/Projects_from_100_days_of_code_App_Brewery)
-  - [Flutter apps](https://github.com/Sandpaperr/flutter)
+  - [projects from 100 Days of code in Python](https://github.com/Sandpaperr/Projects_from_100_days_of_code_App_Brewery)
+  - [projects from Flutter Bootcamp from Appbrewery](https://github.com/Sandpaperr/flutter)
 
 <h2>📄 Certifications</h2>
 
