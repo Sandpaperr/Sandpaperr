@@ -2,10 +2,9 @@
 
 <h2>Projects:</h2>
 
-  - [projects from 100 Days of code in Python](https://github.com/Sandpaperr/Projects_from_100_days_of_code_App_Brewery)
-  - [projects from Flutter Bootcamp from Appbrewery](https://github.com/Sandpaperr/flutter)
+  - [Web Scraper and Keyword search](https://github.com/Sandpaperr/web-scrape-and-search)
 
-<h2>📄 Certifications</h2>
+<!--<h2>📄 Certifications</h2> -->
 
 <h2> 🤳 Connect with me:</h2>
 
