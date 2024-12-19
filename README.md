@@ -1,4 +1,4 @@
-<h1>Hi, I'm Leandro! I have recently graduated in Computer Science With Artificial intelligence at the University Of Leeds. I am Currently Learning more about Backend and API development </h1>
+<h1>Hi, I'm Leandro! </h1>
 
 <h2>Projects:</h2>
 
