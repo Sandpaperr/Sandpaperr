@@ -4,6 +4,7 @@
 
   - [Web Scraper and Keyword search](https://github.com/Sandpaperr/web-scrape-and-search)
   - [Flutter exercises](https://github.com/Sandpaperr/flutter)
+  - [Slack replica with Laravel](https://github.com/softeqlabs/Laravel-Slack-Lite-Replica-App)
 
 <!--<h2>📄 Certifications</h2> -->
 
