@@ -3,6 +3,7 @@
 <h2>Projects:</h2>
 
   - [Web Scraper and Keyword search](https://github.com/Sandpaperr/web-scrape-and-search)
+  - [Flutter exercises](https://github.com/Sandpaperr/flutter)
 
 <!--<h2>📄 Certifications</h2> -->
 
