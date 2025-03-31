@@ -6,7 +6,7 @@
   - [Web Scraper and Keyword search](https://github.com/Sandpaperr/web-scrape-and-search)
   - [Flutter exercises](https://github.com/Sandpaperr/flutter)
   - [Django Uni Coursework](https://github.com/Sandpaperr/web_app_cw)
-  - [Python Exercises and Small daily Projects](https://github.com/Sandpaperr/Projects_from_100_days_of_code_App_Brewery)
+  - [Python Exercises and daily Projects](https://github.com/Sandpaperr/Projects_from_100_days_of_code_App_Brewery)
 
 <!--<h2>📄 Certifications</h2> -->
 
