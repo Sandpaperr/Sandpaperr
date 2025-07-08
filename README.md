@@ -2,6 +2,7 @@
 
 <h2>Projects:</h2>
 
+  - [Coding Challenge app](https://github.com/Sandpaperr/code_challenge_app)
   - [Slack replica using Laravel](https://github.com/softeqlabs/Laravel-Slack-Lite-Replica-App)
   - [Web Scraper and Keyword search](https://github.com/Sandpaperr/web-scrape-and-search)
   - [Flutter exercises](https://github.com/Sandpaperr/flutter)
